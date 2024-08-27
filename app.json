@@ -16,12 +16,12 @@
      "OWNER_NAME": {
       "description": "Put the name of Bot Owner",
       "required": true,
-      "value": "GIFTED TECH"
+      "value": "MUNEEB RANA"
     },
     "OWNER_NUMBER": {
       "description": "Put Bot Owner Numbers",
       "required": true,
-      "value": "254110853827"
+      "value": "923027959975"
     },
     "AUTO_STICKER": {
       "description": "Put true/false to enable auto conversion of videos and photos as stickers",
@@ -31,7 +31,7 @@
     "SESSION_ID": {
       "description": "Put your SESSION_ID.  Must start with Gifted~",
       "required": true,
-      "value": ""
+      "value": "Gifted~R3vRQMqU"
     },
      "NOT_ALLOW": {
       "description": "Put value true to disable bot in pm during public mode.",
@@ -56,12 +56,12 @@
     "AUTO_TYPING": {
       "description": "Put true if you want bot to show typing",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "AUTO_RECORDING": {
       "description": "Put true if you want bot to show recording audio",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "ALWAYS_ONLINE": {
       "description": "Put true if you want bot to show always online",
@@ -81,7 +81,7 @@
     "AUTO_REACT": {
       "description": "Put value to true or false",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
      "HEROKU_APP_NAME": {
       "description": "Put your heroku app name as entered above.",
